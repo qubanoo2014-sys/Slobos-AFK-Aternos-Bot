@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "theaerosmp.tkmc.net",
+    "port": 42406,
     "version": "",
     "try-creative": false
   },
